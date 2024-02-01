@@ -2,7 +2,7 @@ import OpenAI from "openai";
 import fs from "fs";
 
 
-const openai = new OpenAI({ apiKey: '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' });
+const openai = new OpenAI({ apiKey: 'KEY' });
 
 
 // async function uploadFile() {
